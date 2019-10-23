@@ -1,5 +1,3 @@
-<title>Prova de Seleção Ma9: Api Cliente/Endereço</title>
-
 <div class="container">
         <div class="navbar-header">
           <h2>
