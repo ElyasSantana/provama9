@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Cliente(models.Model):
-    foto = models.FileField(upload_to='cliente_image', blank=True)
+    foto = models.ImageField(upload_to='cliente_image', blank=True)
     nome = models.CharField(max_length=30)
     sobrenome = models.CharField(max_length=30)
     cpf = models.CharField(max_length=11)
