@@ -23,7 +23,7 @@
 
 <h4>Endereços por Cliente</h4>
 <p>Get, Post, Put, Patch, Delete dos Endereços a partir do index Cliente: <strong>http://127.0.0.1:8000/api/cliente/:id/endereco/</strong></p>
-<p>Get, Post, Put, Patch, Delete do Endereco a partir do index Cliente e Endereço<strong>http://127.0.0.1:8000/api/cliente/:id/endereco/:id </strong></p>
+<p>Get, Post, Put, Patch, Delete do Endereco a partir do index Cliente e Endereço: <strong>http://127.0.0.1:8000/api/cliente/:id/endereco/:id </strong></p>
 
 
 <hr />
