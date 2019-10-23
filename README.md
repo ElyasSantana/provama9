@@ -10,7 +10,7 @@
   <h3>Endpoints</h3>
   </p>
   <hr />
-<p>Todos os endpoints iniciam com <a href="#">http://127.0.0.1:8000/api/posts/</a></p>
+<p>Todos os endpoints iniciam com <a href="#">http://127.0.0.1:8000/api/cliente/</a></p>
 <hr />
 <h4>Cliente</h4>
 <p>Get, Post, Put, Patch, Delete todos os Clientes: <strong>http://127.0.0.1:8000/api/cliente/</strong></p>
